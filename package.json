@@ -1,5 +1,5 @@
 {
-	"name": "chatgpt-official",
+	"name": "chatgpt-interface",
 	"version": "1.1.9",
 	"description": "ChatGPT Client using official OpenAI API",
 	"main": "dist/index.js",
